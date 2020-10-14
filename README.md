@@ -1,21 +1,24 @@
 # Puppy-DL
 ゼロから作るDeepLearningのC＋＋版
 
-■ Features 
- ・Define-by-Run
- <br>
+■ Features
+<br>
+・Define-by-Run
+<br>
+ ・Original matrix class (Numpy-like)
+<br>
 
- ・Original matrix class (Numpy-like) 
- <br>
-
- 
- 
-■ What you can do 
- ・Higher derivative 
- ・Multi-value classification 
- ・Mnist 
- 
+■ What you can do
+<br>
+ ・Higher derivative
+<br>
+ ・Multi-value classification
+<br>
+ ・Mnist
+<br>
  
 ■ Next
- ・Implementation of each Step and Test 
+<br>
+・Implementation of each Step and Test
+<br>
  ・Implementation of RNN and LSTM 
