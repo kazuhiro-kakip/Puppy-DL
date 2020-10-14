@@ -1,6 +1,10 @@
 # Puppy-DL
 「ゼロから作るDeepLearning③」のC++版<br>
 <br>
+■ Purpose
+<br>
+For learning (not practical speed)<br>
+<br>
 ■ Features
 <br>
 ・ Define-by-Run<br>
@@ -12,4 +16,6 @@
 ・ Mnist<br>
 <br>
 ■ Next<br>
-・ Implementation of each STEP and test<br>
+・ Implementation of each Step and test<br>
+・ Implementation of RNN and LSTM<br>
+
