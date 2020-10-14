@@ -1,7 +1,7 @@
 # Puppy-DL
 「ゼロから作るDeepLearning③」のC++版<br>
 <br>
-■ Features<br>
+■ Features
 <br>
 ・ Define-by-Run<br>
 ・ Original matrix class (Numpy-like)<br>
