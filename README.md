@@ -2,8 +2,12 @@
 ゼロから作るDeepLearningのC＋＋版
 
 ■ Features 
- ・Define-by-Run  
+ ・Define-by-Run
+ <br>
+
  ・Original matrix class (Numpy-like) 
+ <br>
+
  
  
 ■ What you can do 
