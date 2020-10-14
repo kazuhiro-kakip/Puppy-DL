@@ -1,5 +1,6 @@
 # Puppy-DL
-「ゼロから作るDeepLearning③」のC++版
+「ゼロから作るDeepLearning③」のC++版<br>
+<br>
 ■ Features<br>
 <br>
 ・ Define-by-Run<br>
