@@ -1,2 +1,2 @@
 # Puppy-DL
-ゼロから作るDeepLearningのC＋＋版
+ゼロから作るDeepLearningのC++版
