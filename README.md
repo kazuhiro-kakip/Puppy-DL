@@ -3,7 +3,7 @@
 ■ Features<br>
 <br>
 ・ Define-by-Run<br>
--Original matrix class (Numpy-like, see: https://github.com/dpilger26/NumCpp)<br>
+・ Original matrix class (Numpy-like)<br>
 <br>
 ■ What you can do<br>
 ・ Higher derivative<br>
